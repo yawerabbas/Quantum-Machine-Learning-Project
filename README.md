@@ -1,4 +1,4 @@
-##Data:
+## Data:
 payment_data.csv:
 payment_data.csv: customer’s card payment history.
 id: customer id
